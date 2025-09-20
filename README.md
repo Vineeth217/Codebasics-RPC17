@@ -2,7 +2,7 @@
 A data-driven review of Bharat Herald’s performance from 2019 to 2024, highlighting circulation, revenue, and operational shifts. It provides actionable insights to guide the company’s roadmap for sustainable digital transformation.
 # 🚀 Business Insights from Bharat Herald Performance Dashboards
 
-## 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWZiZWEyZWItOTk4ZC00OGE4LTlkMmQtYWU1MzgzZTc2ODI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODJjYTVmZmUtNWE4NC00YjFjLWFlZDctZGQ5ZDlhYmU0ODdlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ---
 
 ## 1️⃣ Print Business Overview
