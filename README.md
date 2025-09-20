@@ -2,6 +2,9 @@
 A data-driven review of Bharat Herald’s performance from 2019 to 2024, highlighting circulation, revenue, and operational shifts. It provides actionable insights to guide the company’s roadmap for sustainable digital transformation.
 # 🚀 Business Insights from Bharat Herald Performance Dashboards
 
+## 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWZiZWEyZWItOTk4ZC00OGE4LTlkMmQtYWU1MzgzZTc2ODI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+---
+
 ## 1️⃣ Print Business Overview
 - **Circulation**: 231M copies printed → 219M sold → 207M net circulation  
   _(~7% wastage observed)_
@@ -55,4 +58,6 @@ Traditional **print remains the revenue leader**, but **digital engagement** is 
 Focus areas for sustainability:
 1. Reduce wastage  
 2. Enhance city-wise ROI  
-3. Bridge digital engagement gaps  
+3. Bridge digital engagement gaps
+
+ > 🧪 Powered by **Codebasics**
